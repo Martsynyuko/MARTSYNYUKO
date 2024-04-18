@@ -2,13 +2,15 @@
 
 
 
-I'm a Ukrainian :ukraine: Full-Stack Software Engineer with more than 2 years of experience. Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
- ## :zap: :zap: :zap:
+I'm a Full-Stack Software Engineer from Ukraine :ukraine: with more than 2 years of experience. Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
+
 #### Contact Me 
 
 ![Static Badge](https://img.shields.io/badge/online-%23F7DF1E?style=flat&logo=Gmail&logoColor=%23EA4335&label=Gmail&color=f)
 ![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=Telegram&label=Martsynyuk) 
-![Static Badge](https://img.shields.io/badge/%23OpenToWork-%230A66C2?style=flat&logo=Linkedin&logoColor=white&label=Oleksandr%20Martsyniuk&labelColor=%230A66C1&color=f)
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=Linkedin&logoColor=yellow&label=Martsynyuk)
+<!-- ![Static Badge](https://img.shields.io/badge/%23sen-%230A66C2?style=flat&logo=Linkedin&logoColor=white&label=Oleksandr%20Martsyniuk&labelColor=%230A66C1&color=f) -->
+<!-- ![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=Linkedin&logoColor=yellow&label=Oleksandr%20Martsyniuk) -->
 
 <!-- Телеграм ![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=plastic&logo=Telegram&label=Martsynyuk)
 ![Static Badge](https://img.shields.io/badge/%2F-%23315dfa?style=plastic&label=Rambler&labelColor=%23315dfa) 
@@ -22,21 +24,10 @@ I'm a Ukrainian :ukraine: Full-Stack Software Engineer with more than 2 years of
 
 
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 
-![Static Badge](https://img.shields.io/badge/Martsynyuk-online-%23F7DF1E?style=plastic&logo=Gmail&logoColor=red&label=Gmail&color=f)
+
+<!-- ![Static Badge](https://img.shields.io/badge/Martsynyuk-online-%23F7DF1E?style=plastic&logo=Gmail&logoColor=red&label=Gmail&color=f)
 [![Telegram Badge](https://img.shields.io/badge/@Martsynyuk-%2326A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Martsynyuk)
 [![LinkedIn Badge](https://img.shields.io/badge/@Martsynyuk-%230A66C2?style=flat-square&logo=Linkedin)](https://linkedin.com/in/martsynyuk)
 [![Mail Badge](https://img.shields.io/badge/@Martsynyuk-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]() 
@@ -51,16 +42,6 @@ I'm a Ukrainian :ukraine: Full-Stack Software Engineer with more than 2 years of
 ![Static Badge](https://img.shields.io/badge/%23OpenToWork-%230A66C2?style=plastic&logo=Linkedin&logoColor=white&label=Oleksandr%20Martsyniuk&labelColor=%230A66C1&color=f)
 ![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=Linkedin&logoColor=yellow&label=Martsynyuk)
 
-
-
-
-
-
-
-
-
-
-
 <br>
 
 ![Static Badge](https://img.shields.io/badge/Martsynyuk-online-%23F7DF1E?style=flat&logo=Gmail&logoColor=red&label=Gmail&color=f)
@@ -68,6 +49,7 @@ I'm a Ukrainian :ukraine: Full-Stack Software Engineer with more than 2 years of
 [![LinkedIn Badge](https://img.shields.io/badge/@Martsynyuk-%230A66C2?style=flat-square&logo=Linkedin)](https://linkedin.com/in/martsynyuk)
 [![Mail Badge](https://img.shields.io/badge/@Martsynyuk-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]() 
 [![Mail Badge](https://img.shields.io/badge/Martsynyuk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rudik.programer@gmail.com)
+-->
 
 #### Top Technologies
 
