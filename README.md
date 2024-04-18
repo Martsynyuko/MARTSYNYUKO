@@ -8,7 +8,7 @@ I'm a Full-Stack Software Engineer from :ukraine: Ukraine  with more than 2 year
 
 ![Static Badge](https://img.shields.io/badge/online-%23F7DF1E?style=flat&logo=Gmail&logoColor=%23EA4335&label=Gmail&color=f)
 ![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=Telegram&label=Martsynyuk) 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=Linkedin&logoColor=violet&label=Martsynyuk)
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=Linkedin&logoColor=orange&label=Martsynyuk)
 <!-- ![Static Badge](https://img.shields.io/badge/%23sen-%230A66C2?style=flat&logo=Linkedin&logoColor=white&label=Oleksandr%20Martsyniuk&labelColor=%230A66C1&color=f) -->
 <!-- ![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=Linkedin&logoColor=yellow&label=Oleksandr%20Martsyniuk) -->
 
@@ -119,11 +119,26 @@ I'm a Full-Stack Software Engineer from :ukraine: Ukraine  with more than 2 year
  ### Made in 💙💛🇺🇦💛💙 -->
 
  ### My stack technologies:
+
+ <!--
+ 
 ![Static Badge](https://img.shields.io/badge/Rust-%23000000?style=flat&logo=Rust)
 ![Static Badge](https://img.shields.io/badge/Golang-%2300ADD8?style=flat&logo=Go&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Golang-%2300ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Golang-white?style=flat-square&logo=Go&logoColor=%2300ADD8)
 ![Static Badge](https://img.shields.io/badge/Rust-white?style=flat-square&logo=Rust&logoColor=%23000000)
+
+-->
+
+![Static Badge](https://img.shields.io/badge/Golang-white?style=flat-square&logo=Go&logoColor=%2300ADD8)
+![Static Badge](https://img.shields.io/badge/Rust-white?style=flat-square&logo=Rust&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=%yellow)
 ![Static Badge](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=TypeScript&logoColor=%blue)
+![Static Badge](https://img.shields.io/badge/Vue%203-white?style=flat-square&logo=Vue.js&logoColor=%blue)
 
+
+![Static Badge](https://img.shields.io/badge/Golang-white?style=flat&logo=Go&logoColor=%2300ADD8)
+![Static Badge](https://img.shields.io/badge/Rust-white?style=flat&logo=Rust&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=%yellow)
+![Static Badge](https://img.shields.io/badge/TypeScript-white?style=flate&logo=TypeScript&logoColor=%blue)
+![Static Badge](https://img.shields.io/badge/Vue%203-white?style=flat&logo=Vue.js&logoColor=%blue)
