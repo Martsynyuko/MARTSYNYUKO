@@ -2,7 +2,7 @@
 
 
 
-I'm a Full-Stack Software Engineer from Ukraine :ukraine: with more than 2 years of experience. Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
+I'm a Full-Stack Software Engineer from :ukraine: Ukraine  with more than 2 years of experience. Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
 
 #### Contact Me 
 
