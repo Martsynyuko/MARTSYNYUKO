@@ -23,9 +23,6 @@ I'm a Full-Stack Software Engineer from Ukraine :ukraine: with more than 2 years
 
 
 
-<br>
-<br>
-
 
 <!-- ![Static Badge](https://img.shields.io/badge/Martsynyuk-online-%23F7DF1E?style=plastic&logo=Gmail&logoColor=red&label=Gmail&color=f)
 [![Telegram Badge](https://img.shields.io/badge/@Martsynyuk-%2326A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Martsynyuk)
@@ -51,9 +48,11 @@ I'm a Full-Stack Software Engineer from Ukraine :ukraine: with more than 2 years
 [![Mail Badge](https://img.shields.io/badge/Martsynyuk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rudik.programer@gmail.com)
 -->
 
-#### Top Technologies
+<!-- #### Top Technologies
 
 [![Rust Badge](https://img.shields.io/badge/-Rust-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+-->
 
 <br/>
 
@@ -115,11 +114,13 @@ I'm a Full-Stack Software Engineer from Ukraine :ukraine: with more than 2 years
  [![Логотип OpenAI](https://openai.com/images/openai_logo.png)](https://openai.com))
 
 
-### My stack technologies:
+
+
+ ### Made in 💙💛🇺🇦💛💙 -->
+
+ ### My stack technologies:
 ![Static Badge](https://img.shields.io/badge/Rust-%23000000?style=flat&logo=Rust)
 ![Static Badge](https://img.shields.io/badge/Golang-%2300ADD8?style=flat&logo=Go&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Golang-%2300ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Golang-white?style=flat-square&logo=Go&logoColor=%2300ADD8)
-
- ### Made in 💙💛🇺🇦💛💙 -->
 
