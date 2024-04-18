@@ -8,7 +8,7 @@ I'm a Full-Stack Software Engineer from :ukraine: Ukraine  with more than 2 year
 
 ![Static Badge](https://img.shields.io/badge/online-%23F7DF1E?style=flat&logo=Gmail&logoColor=%23EA4335&label=Gmail&color=f)
 ![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=Telegram&label=Martsynyuk) 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=Linkedin&logoColor=yellow&label=Martsynyuk)
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=Linkedin&logoColor=violet&label=Martsynyuk)
 <!-- ![Static Badge](https://img.shields.io/badge/%23sen-%230A66C2?style=flat&logo=Linkedin&logoColor=white&label=Oleksandr%20Martsyniuk&labelColor=%230A66C1&color=f) -->
 <!-- ![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=Linkedin&logoColor=yellow&label=Oleksandr%20Martsyniuk) -->
 
