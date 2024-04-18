@@ -123,4 +123,7 @@ I'm a Full-Stack Software Engineer from :ukraine: Ukraine  with more than 2 year
 ![Static Badge](https://img.shields.io/badge/Golang-%2300ADD8?style=flat&logo=Go&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Golang-%2300ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Golang-white?style=flat-square&logo=Go&logoColor=%2300ADD8)
+![Static Badge](https://img.shields.io/badge/Rust-white?style=flat-square&logo=Rust&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=%yellow)
+![Static Badge](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=TypeScript&logoColor=%blue)
 
