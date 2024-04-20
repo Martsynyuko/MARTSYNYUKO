@@ -2,7 +2,7 @@
 
 
 
-I'm a Full-Stack Software Engineer from :ukraine: Ukraine  with more than 2 years of experience. Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
+I'm a Full-Stack Software Engineer from Ukraine :ukraine:
 
 #### Contact Me 
 
@@ -118,7 +118,7 @@ I'm a Full-Stack Software Engineer from :ukraine: Ukraine  with more than 2 year
 
  ### Made in 💙💛🇺🇦💛💙 -->
 
- ### My stack technologies:
+ ###### My stack technologies:
 
  <!--
  
@@ -134,11 +134,11 @@ I'm a Full-Stack Software Engineer from :ukraine: Ukraine  with more than 2 year
 ![Static Badge](https://img.shields.io/badge/Rust-white?style=flat-square&logo=Rust&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=%yellow)
 ![Static Badge](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=TypeScript&logoColor=%blue)
-![Static Badge](https://img.shields.io/badge/Vue%203-white?style=flat-square&logo=Vue.js&logoColor=%blue)
+![Static Badge](https://img.shields.io/badge/Vue%203-white?style=flat-square&logo=Vue.js&logoColor=%green)
 
 
 ![Static Badge](https://img.shields.io/badge/Golang-white?style=flat&logo=Go&logoColor=%2300ADD8)
 ![Static Badge](https://img.shields.io/badge/Rust-white?style=flat&logo=Rust&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=%yellow)
 ![Static Badge](https://img.shields.io/badge/TypeScript-white?style=flate&logo=TypeScript&logoColor=%blue)
-![Static Badge](https://img.shields.io/badge/Vue%203-white?style=flat&logo=Vue.js&logoColor=%blue)
+![Static Badge](https://img.shields.io/badge/Vue%203-white?style=flat-square&logo=Vue.js&logoColor=%green)
